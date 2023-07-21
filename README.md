@@ -1,7 +1,7 @@
 # KeyForge
 
-[![npm version](https://img.shields.io/npm/v/@seunome/keyforge.svg)](https://www.npmjs.com/package/@seunome/keyforge)
-[![License](https://img.shields.io/github/license/seunome/keyforge)](https://github.com/seunome/keyforge/blob/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/@martonpaulo/keyforge.svg)](https://www.npmjs.com/package/@martonpaulo/keyforge)
+[![License](https://img.shields.io/github/license/martonpaulo/keyforge)](https://github.com/seunome/keyforge/blob/master/LICENSE)
 
 KeyForge is a secure and flexible password generation and evaluation library for Node.js. It allows you to generate strong, cryptographically secure passwords with customizable options, and also provides a function to check the strength and security level of existing passwords.
 
