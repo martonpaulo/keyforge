@@ -1,6 +1,6 @@
 // __tests__/passwordGenerator.test.js
 
-const { generatePassword, isPasswordSecure } = require('../src/passwordGenerator');
+const { generatePassword, isPasswordSecure } = require('../src/keyForge');
 
 describe('generatePassword', () => {
   test('should generate a password with the specified length', () => {
