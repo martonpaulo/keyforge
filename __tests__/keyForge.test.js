@@ -1,4 +1,4 @@
-// __tests__/passwordGenerator.test.js
+// __tests__/keyForge.test.js
 
 const { generatePassword, isPasswordSecure } = require('../src/keyForge');
 

@@ -1,4 +1,4 @@
-// src/passwordGenerator.js
+// src/keyForge.js
 
 /**
  * Generate a secure password with specified length and options.
