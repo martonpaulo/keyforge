@@ -1,0 +1,23 @@
+{
+  "name": "keyforge",
+  "version": "1.0.0",
+  "description": "KeyForge is a secure and flexible password generation and evaluation library for Node.js. It allows you to generate strong, cryptographically secure passwords with customizable options, and also provides a function to check the strength and security level of existing passwords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "password",
+    "security",
+    "key",
+    "encryption",
+    "utility",
+    "password-generator"
+  ],
+  "author": "Marton Paulo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
